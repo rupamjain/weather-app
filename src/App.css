@@ -1,0 +1,16 @@
+body {
+	background-color: #c6deff !important;
+}
+.App {
+	width: 100% !important;
+}
+#weatherForm {
+	width: 100% !important;
+	margin-top: 20px;
+}
+label {
+	float: left;
+}
+#res {
+	margin-top: 20px;
+}
